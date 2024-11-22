@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "chlng.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "ctype.h": "c",
+        "player.h": "c",
+        "stdbool.h": "c"
+    }
+}
